@@ -1,7 +1,7 @@
 /* code to improve the font quality */
 * {
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 .acceptcookies,
 .adn-window.adn-message,
@@ -665,12 +665,12 @@ div[data-storage-item^="t886cookiename_"],
 div[data-testid="cookiePopup"],
 div[data-testid="cookies-dialog"],
 wecoma-lite {
-    display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    position: absolute !important;
-    width: 0px !important;
-    height: 0px !important;
+	display: none !important;
+	visibility: hidden !important;
+	opacity: 0 !important;
+	position: absolute !important;
+	width: 0px !important;
+	height: 0px !important;
 }
 
 #AvisoCookieslaw,
@@ -1672,12 +1672,12 @@ wecoma-lite {
 .acceptCookies,
 .acceptCookiesBox,
 .accept_cookies {
-    display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    position: absolute !important;
-    width: 0px !important;
-    height: 0px !important;
+	display: none !important;
+	visibility: hidden !important;
+	opacity: 0 !important;
+	position: absolute !important;
+	width: 0px !important;
+	height: 0px !important;
 }
 
 .view-id-advertisement,
@@ -2278,7 +2278,7 @@ a[href^="https://zirdough.net/"],
 a[onclick^="window.location.replace('https://random-affiliate.atimaze.com/"],
 a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"],
 a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"]
-    + .ob_source,
+	+ .ob_source,
 ad-shield-ads,
 ad-slot,
 amp-ad,
@@ -2347,12 +2347,12 @@ span[data-ez-ph-id],
 span[id^="ezoic-pub-ad-placeholder-"],
 topadblock,
 zeus-ad {
-    display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    position: absolute !important;
-    width: 0px !important;
-    height: 0px !important;
+	display: none !important;
+	visibility: hidden !important;
+	opacity: 0 !important;
+	position: absolute !important;
+	width: 0px !important;
+	height: 0px !important;
 }
 
 .rs-advert__container,
@@ -3353,12 +3353,12 @@ zeus-ad {
 .view-homepage-center-ads,
 .view-id-Advertisment,
 .view-id-ads {
-    display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    position: absolute !important;
-    width: 0px !important;
-    height: 0px !important;
+	display: none !important;
+	visibility: hidden !important;
+	opacity: 0 !important;
+	position: absolute !important;
+	width: 0px !important;
+	height: 0px !important;
 }
 
 .localad,
@@ -4360,12 +4360,12 @@ zeus-ad {
 .rr_ads,
 .rs-ad,
 .rs-advert {
-    display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    position: absolute !important;
-    width: 0px !important;
-    height: 0px !important;
+	display: none !important;
+	visibility: hidden !important;
+	opacity: 0 !important;
+	position: absolute !important;
+	width: 0px !important;
+	height: 0px !important;
 }
 
 .flash_advert,
@@ -5368,12 +5368,12 @@ zeus-ad {
 .live-ad,
 .lng-ad,
 .local-ads {
-    display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    position: absolute !important;
-    width: 0px !important;
-    height: 0px !important;
+	display: none !important;
+	visibility: hidden !important;
+	opacity: 0 !important;
+	position: absolute !important;
+	width: 0px !important;
+	height: 0px !important;
 }
 
 .banner468,
@@ -6376,12 +6376,12 @@ zeus-ad {
 .fla-ad,
 .flashAd,
 .flash_ad {
-    display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    position: absolute !important;
-    width: 0px !important;
-    height: 0px !important;
+	display: none !important;
+	visibility: hidden !important;
+	opacity: 0 !important;
+	position: absolute !important;
+	width: 0px !important;
+	height: 0px !important;
 }
 
 .adunit-container_sitebar_1,
@@ -7384,12 +7384,12 @@ zeus-ad {
 .banner336,
 .banner336x280,
 .banner350 {
-    display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    position: absolute !important;
-    width: 0px !important;
-    height: 0px !important;
+	display: none !important;
+	visibility: hidden !important;
+	opacity: 0 !important;
+	position: absolute !important;
+	width: 0px !important;
+	height: 0px !important;
 }
 
 .adheighttall,
@@ -8390,12 +8390,12 @@ zeus-ad {
 .adunit-active,
 .adunit-adbridg,
 .adunit-container {
-    display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    position: absolute !important;
-    width: 0px !important;
-    height: 0px !important;
+	display: none !important;
+	visibility: hidden !important;
+	opacity: 0 !important;
+	position: absolute !important;
+	width: 0px !important;
+	height: 0px !important;
 }
 
 .ad970,
@@ -9395,12 +9395,12 @@ zeus-ad {
 .adhead,
 .adheader,
 .adheightpromo {
-    display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    position: absolute !important;
-    width: 0px !important;
-    height: 0px !important;
+	display: none !important;
+	visibility: hidden !important;
+	opacity: 0 !important;
+	position: absolute !important;
+	width: 0px !important;
+	height: 0px !important;
 }
 
 .ad-code,
@@ -9812,8 +9812,8 @@ zeus-ad {
 .ad-placeholder-wrapper,
 .ad-placeholder-wrapper-dynamic,
 .ad-placeholder:not(#filter_ads_by_classname):not(#detect_ad_empire):not(
-        #detect
-    ):not(.adsbox),
+		#detect
+	):not(.adsbox),
 .ad-placeholder__inner,
 .ad-placement-left,
 .ad-placement-right,
@@ -10402,12 +10402,12 @@ zeus-ad {
 .ad728x90-2,
 .ad728x90box,
 .ad728x90btf {
-    display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    position: absolute !important;
-    width: 0px !important;
-    height: 0px !important;
+	display: none !important;
+	visibility: hidden !important;
+	opacity: 0 !important;
+	position: absolute !important;
+	width: 0px !important;
+	height: 0px !important;
 }
 
 #top-ad-wrapper,
@@ -11404,12 +11404,12 @@ zeus-ad {
 .ad-cls,
 .ad-cls-fix,
 .ad-cnt {
-    display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    position: absolute !important;
-    width: 0px !important;
-    height: 0px !important;
+	display: none !important;
+	visibility: hidden !important;
+	opacity: 0 !important;
+	position: absolute !important;
+	width: 0px !important;
+	height: 0px !important;
 }
 
 #lb-sponsor-right,
@@ -12408,12 +12408,12 @@ zeus-ad {
 #top-ad-slot-0,
 #top-ad-slot-1,
 #top-ad-unit {
-    display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    position: absolute !important;
-    width: 0px !important;
-    height: 0px !important;
+	display: none !important;
+	visibility: hidden !important;
+	opacity: 0 !important;
+	position: absolute !important;
+	width: 0px !important;
+	height: 0px !important;
 }
 
 #banneradspace,
@@ -13415,12 +13415,12 @@ zeus-ad {
 #layout_topad,
 #lb-ad,
 #lb-sponsor-left {
-    display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    position: absolute !important;
-    width: 0px !important;
-    height: 0px !important;
+	display: none !important;
+	visibility: hidden !important;
+	opacity: 0 !important;
+	position: absolute !important;
+	width: 0px !important;
+	height: 0px !important;
 }
 
 #ad_rightslot,
@@ -14423,12 +14423,12 @@ zeus-ad {
 #bannerad2,
 #banneradrow,
 #bannerads {
-    display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    position: absolute !important;
-    width: 0px !important;
-    height: 0px !important;
+	display: none !important;
+	visibility: hidden !important;
+	opacity: 0 !important;
+	position: absolute !important;
+	width: 0px !important;
+	height: 0px !important;
 }
 
 #AC_ad,
@@ -15431,53 +15431,53 @@ zeus-ad {
 #ad_right,
 #ad_right_box,
 #ad_right_top {
-    display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    position: absolute !important;
-    width: 0px !important;
-    height: 0px !important;
+	display: none !important;
+	visibility: hidden !important;
+	opacity: 0 !important;
+	position: absolute !important;
+	width: 0px !important;
+	height: 0px !important;
 }
 
 .wf-force-outline-none[tabindex="-1"]:focus {
-    outline: none;
+	outline: none;
 }
 
 @media (min-width: 992px) {
-    html.w-mod-js:not(.w-mod-ix)
-        [data-w-id="8f356e9f-9dae-e0e5-e786-b9151d32e4fb"] {
-        display: none;
-        -webkit-transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0)
-            rotateY(0) rotateZ(0) skew(0, 0);
-        -moz-transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0)
-            rotateY(0) rotateZ(0) skew(0, 0);
-        -ms-transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0)
-            rotateY(0) rotateZ(0) skew(0, 0);
-        transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
-            rotateZ(0) skew(0, 0);
-    }
-    html.w-mod-js:not(.w-mod-ix)
-        [data-w-id="8f356e9f-9dae-e0e5-e786-b9151d32e549"] {
-        display: none;
-        -webkit-transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0)
-            rotateY(0) rotateZ(0) skew(0, 0);
-        -moz-transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0)
-            rotateY(0) rotateZ(0) skew(0, 0);
-        -ms-transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0)
-            rotateY(0) rotateZ(0) skew(0, 0);
-        transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
-            rotateZ(0) skew(0, 0);
-    }
-    html.w-mod-js:not(.w-mod-ix)
-        [data-w-id="8f356e9f-9dae-e0e5-e786-b9151d32e557"] {
-        display: none;
-        -webkit-transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0)
-            rotateY(0) rotateZ(0) skew(0, 0);
-        -moz-transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0)
-            rotateY(0) rotateZ(0) skew(0, 0);
-        -ms-transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0)
-            rotateY(0) rotateZ(0) skew(0, 0);
-        transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
-            rotateZ(0) skew(0, 0);
-    }
+	html.w-mod-js:not(.w-mod-ix)
+		[data-w-id="8f356e9f-9dae-e0e5-e786-b9151d32e4fb"] {
+		display: none;
+		-webkit-transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0)
+			rotateY(0) rotateZ(0) skew(0, 0);
+		-moz-transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0)
+			rotateY(0) rotateZ(0) skew(0, 0);
+		-ms-transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+			rotateZ(0) skew(0, 0);
+		transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+			rotateZ(0) skew(0, 0);
+	}
+	html.w-mod-js:not(.w-mod-ix)
+		[data-w-id="8f356e9f-9dae-e0e5-e786-b9151d32e549"] {
+		display: none;
+		-webkit-transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0)
+			rotateY(0) rotateZ(0) skew(0, 0);
+		-moz-transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0)
+			rotateY(0) rotateZ(0) skew(0, 0);
+		-ms-transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+			rotateZ(0) skew(0, 0);
+		transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+			rotateZ(0) skew(0, 0);
+	}
+	html.w-mod-js:not(.w-mod-ix)
+		[data-w-id="8f356e9f-9dae-e0e5-e786-b9151d32e557"] {
+		display: none;
+		-webkit-transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0)
+			rotateY(0) rotateZ(0) skew(0, 0);
+		-moz-transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0)
+			rotateY(0) rotateZ(0) skew(0, 0);
+		-ms-transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+			rotateZ(0) skew(0, 0);
+		transform: translate3d(0, 80%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+			rotateZ(0) skew(0, 0);
+	}
 }
