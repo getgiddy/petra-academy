@@ -2054,15 +2054,15 @@ textarea.w-input,textarea.w-select {
     --main--black: #1b1b1b;
     --beige--300: #dfd6d2;
     --white--100: #fff;
-    --main--green: #7a7a7a;
+    --main--grey: #7a7a7a;
     /* --main--green: #00664e; */
     --grey\<deleted\|variable-7d66f4d0-3ad2-1dda-5a6c-6e41aa28e5e1\>: #7d7d88;
     --grey-600\<deleted\|variable-d623f426-927b-7b9e-7f61-1bd85fe0b2fe\>: #363636;
     --grey--400\<deleted\|variable-a91fcf04-a1ae-bdfd-46de-186bc9c142cf\>: #3c3c3fb3;
     --main--yellow: #ffe549;
-    --main--grey: #2e2e2e;
+    /* --main--grey: #2e2e2e; */
     --white--80: #fffc;
-    --main--orange: #ff5938;
+    --main--orange: #8d0801;
     --blue--100: #9fdbcd;
     --blue--200: #7fc0b1;
     --blue--900: #385f56;
@@ -3519,7 +3519,7 @@ figcaption {
 }
 
 .form_input {
-    border: 1px solid var(--main--green);
+    border: 1px solid var(--main--grey);
     background-color: var(--white--100);
     color: var(--main--black);
     border-radius: .25rem;
@@ -4487,7 +4487,7 @@ figcaption {
 }
 
 .button.is-green {
-    background-color: var(--main--green);
+    background-color: var(--main--grey);
     color: var(--white--100)
 }
 
@@ -4636,7 +4636,7 @@ figcaption {
 .navbar_drop-wrap {
     grid-column-gap: .5rem;
     grid-row-gap: .5rem;
-    background-color: var(--main--green);
+    background-color: var(--main--grey);
     white-space: nowrap;
     border-radius: 1rem;
     flex-flow: column;
@@ -4654,7 +4654,7 @@ figcaption {
 }
 
 .section_home-about {
-    background-color: var(--main--green);
+    background-color: var(--main--grey);
     overflow: hidden
 }
 
@@ -5111,7 +5111,7 @@ figcaption {
 }
 
 .footer_social-link._4 {
-    background-color: var(--main--green);
+    background-color: var(--main--grey);
     color: var(--white--100)
 }
 
@@ -5233,7 +5233,7 @@ figcaption {
 }
 
 .section_about-story {
-    background-color: var(--main--green)
+    background-color: var(--main--grey)
 }
 
 .about-story_image {
@@ -5417,7 +5417,7 @@ figcaption {
 
 .campus-header_content {
     z-index: 2;
-    background-color: var(--main--green);
+    background-color: var(--main--grey);
     flex-flow: column;
     justify-content: center;
     align-items: stretch;
@@ -5572,7 +5572,7 @@ figcaption {
 }
 
 .contact_image-wrap {
-    background-color: var(--main--green);
+    background-color: var(--main--grey);
     justify-content: center;
     align-items: flex-end;
     width: 50%;
@@ -5618,7 +5618,7 @@ figcaption {
 }
 
 .form_field:focus {
-    border-color: var(--main--green)
+    border-color: var(--main--grey)
 }
 
 .form_field.message {
@@ -5749,7 +5749,7 @@ figcaption {
 }
 
 .cart_quantity {
-    background-color: var(--main--green);
+    background-color: var(--main--grey);
     color: var(--white--100)
 }
 
@@ -5904,7 +5904,7 @@ figcaption {
 }
 
 .section_home-about-2 {
-    background-color: var(--main--green);
+    background-color: var(--main--grey);
     position: relative;
     overflow: clip
 }
@@ -6468,7 +6468,7 @@ figcaption {
 }
 
 .about-mission-3_component {
-    background-color: var(--main--green);
+    background-color: var(--main--grey);
     flex-flow: column;
     flex: 1;
     justify-content: center;
@@ -8363,7 +8363,7 @@ figcaption {
     }
 
     .campus_tab-link.w--current {
-        outline-color: var(--main--green)
+        outline-color: var(--main--grey)
     }
 
     .home-campus_button-wrap {
