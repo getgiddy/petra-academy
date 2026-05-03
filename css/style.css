@@ -1001,6 +1001,11 @@ textarea.w-input,textarea.w-select {
     .w-col-tiny-12 {
         width: 100%
     }
+    
+    li {
+        padding-bottom: 1rem;
+    }
+
 }
 
 .w-widget {
@@ -4773,8 +4778,11 @@ figcaption {
 }
 
 .our-goals{
+    text-align: start;
+    display: list-item;
+    list-style-type: disc;
+    margin-left: 20px;
     font-size: 25px;
-    text-align: center;
 }
 
 .button_text {
@@ -5624,7 +5632,7 @@ figcaption {
 .contact_image {
     z-index: 2;
     object-fit: cover;
-    width: 80%;
+    width: 90%;
     max-width: none;
     position: relative
 }
@@ -7039,7 +7047,7 @@ figcaption {
 }
 
 .home-choice_stats-v1 {
-    color: var(--main--yellow);
+    color: #fff;
     font-size: 4rem;
     line-height: 1
 }
@@ -7074,6 +7082,15 @@ figcaption {
     inset: auto 1rem 1rem auto;
     box-shadow: 0 10px 10px -5px #0003
 }
+
+.mission{
+    font-size: 1.5rem;
+}
+
+.vision{
+    font-size: 2rem;
+}
+
 
 @media screen and (max-width: 991px) {
     h1 {
@@ -8065,7 +8082,7 @@ figcaption {
 
     .text-style-label-2 {
         letter-spacing: .14em;
-        font-size: .875rem
+        font-size: 1rem;
     }
 
     .home-choice_item {
@@ -8074,14 +8091,14 @@ figcaption {
     }
 
     .our-goals{
-        text-align: center;
         font-size: 14px;
     }
 
     .our-core-values{
         text-align: center;
-        font-size: 14px;
+        font-size: 16px;
         line-height: 1.5rem;
+        font-weight: bold;
     }
 
     .home-choice_stats {
@@ -8740,17 +8757,20 @@ figcaption {
         margin-bottom: 2rem
     }
 
-    .home-choice_item-v1 li{
-        margin-bottom: 0;
+    .home-choice_item-v1 {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 0;
     }
 
-    .home-choice_item-v1 {
-        grid-column-gap: 4rem;
-        /* grid-row-gap: 4rem; */
-        flex-flow: column;
-        justify-content: space-between;
-        align-items: flex-start;
-        display: flex
+    .home-choice_item-v1 li {
+        /* padding: 0; */
+        margin: 0;
+    }
+
+    
+    ::placeholder{
+        font-size: 14px;
     }
 
     .home-header_bg {
