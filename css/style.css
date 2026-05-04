@@ -866,6 +866,7 @@ textarea.w-input,textarea.w-select {
         left: auto;
         right: auto
     }
+
 }
 
 @media screen and (max-width: 767px) {
@@ -4915,8 +4916,9 @@ figcaption {
 .campus_image {
     object-fit: cover;
     width: 100%;
-    height: min-content
+    height: 100vh;
 }
+
 
 .campus_tab-link {
     background-color: #0000;
@@ -5130,7 +5132,7 @@ figcaption {
 }
 
 .footer_social-links {
-    grid-column-gap: .5rem;
+    grid-column-gap: 1rem;
     grid-row-gap: .5rem;
     justify-content: flex-start;
     align-items: center;
@@ -5166,7 +5168,7 @@ figcaption {
     grid-column-gap: 2rem;
     grid-row-gap: 2rem;
     flex-flow: column;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     display: flex
 }
@@ -5385,7 +5387,7 @@ figcaption {
 }
 
 .footer_main {
-    grid-column-gap: 2rem;
+    grid-column-gap: 20rem;
     grid-row-gap: 2rem;
     justify-content: center;
     align-items: center;
@@ -7808,6 +7810,17 @@ figcaption {
         width: 110%;
         left: -15%
     }
+    
+    .campus_image {
+        object-fit: cover;
+        width: 100%;
+        height: min-content;
+    }
+
+    .footer_main {
+    grid-column-gap: 8rem;
+    }
+
 }
 
 @media screen and (max-width: 767px) {
@@ -8079,7 +8092,7 @@ figcaption {
     }
 
     .navbar_logo {
-        width: 7rem
+        width: 5rem
     }
 
     .home-about_wrapper {
@@ -8173,7 +8186,7 @@ figcaption {
     }
 
     .footer_logo {
-        width: 7rem
+        width: 5rem
     }
 
     .section_campus-header {
