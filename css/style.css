@@ -5637,6 +5637,10 @@ figcaption {
     position: relative
 }
 
+.contact_image.admissions{
+    width: 200%;
+}
+
 .section_contact {
     padding-top: 6.5rem
 }
@@ -7520,6 +7524,12 @@ figcaption {
         margin-top: 3rem;
         margin-bottom: -11rem
     }
+        
+    .contact_image.admissions{
+        width: 50%;
+        margin-top: 3rem;
+        margin-bottom: -11rem
+    }
 
     .contact_bg-shape {
         width: 60%;
@@ -8188,6 +8198,11 @@ figcaption {
         margin-bottom: -5.6rem
     }
 
+    .contact_image.admissions{
+        margin-top: 2.5rem;
+        margin-bottom: -5.6rem
+    }
+
     .shop-list_component {
         grid-column-gap: 3rem;
         grid-row-gap: 3rem
@@ -8581,6 +8596,11 @@ figcaption {
         width: 80%;
         margin-bottom: -2.3rem
     }
+  
+    .contact_image.admissions{
+        width: 80%;
+        margin-bottom: -2.3rem
+    }
 
     .contact_bg-shape {
         width: 80%;
@@ -8724,7 +8744,7 @@ figcaption {
     }
 
     .home-header_image {
-        right: -15%
+        right: 0%;
     }
 
     .home-header_image-wrap {
